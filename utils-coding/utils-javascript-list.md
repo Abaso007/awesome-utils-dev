@@ -804,8 +804,10 @@
 -   <https://github.com/package-url/packageurl-js>
 -   <https://github.com/flightcontrolhq/superjson>
 -   <https://github.com/WebReflection/domdiff>
+-   <https://github.com/sinclairzx81/parsebox>
 -   <https://github.com/rchipka/node-osmosis>
 -   <https://github.com/natemoo-re/ultrahtml>
+-   <https://github.com/masala/masala-parser>
 -   <https://github.com/mozilla/readability>
 -   <https://github.com/sindresorhus/domify>
 -   <https://github.com/atamano/jsonpathly>
@@ -1359,6 +1361,10 @@
 -   <https://github.com/harthur/clustering>
 -   <https://github.com/cmpolis/hcluster.js>
 
+## LIB: MATH / MATRIX
+
+-   <https://github.com/NaturalNode/node-sylvester>
+
 ## LIB: GENETIC ALGO
 
 -   <https://github.com/dolphin278/genetic>
@@ -1420,6 +1426,8 @@
 -   <https://github.com/zemlyansky/arima>
 -   <https://github.com/sbyrnes/bloom.js>
 -   <https://github.com/sbyrnes/likely.js>
+-   <https://github.com/ml5js/ml5-library>
+-   <https://github.com/sinclairzx81/bayes>
 -   <https://github.com/jimkang/annoy-node>
 -   <https://github.com/waihongchung/dress>
 -   <https://github.com/jaimelias/xy-scale>
@@ -1438,6 +1446,16 @@
 -   <https://github.com/Mansafreo/Primitive-KNN-in-Javascript>
 -   <https://github.com/abhisheksoni27/machine-learning-with-js>
 -   <https://github.com/jinglescode/time-series-forecasting-tensorflowjs>
+
+
+## LIB: AI / MACHINE LEARNING / NAIVE BAYES / TEXT CLASSIFIER
+
+-   <https://github.com/rbayuokt/rb-naiveBayes-Web>
+-   <https://github.com/vaikzs/naive-bayes-in-js>
+-   <https://github.com/surmon-china/naivebayes>
+-   <https://github.com/NaturalNode/natural/>
+-   <https://github.com/rudikershaw/whichx>
+-   <https://github.com/ttezel/bayes>
 
 ## LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED
 

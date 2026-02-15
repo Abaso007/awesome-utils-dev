@@ -385,8 +385,8 @@
 -   <https://github.com/pelotom/unionize>
 -   <https://github.com/pelotom/runtypes>
 -   <https://github.com/arcanis/typanion>
--   <https://github.com/arktypeio/arktype>
 -   <https://github.com/mistlog/typetype>
+-   <https://github.com/arktypeio/arktype>
 -   <https://github.com/stephenh/ts-proto>
 -   <https://github.com/syntax-tree/unist>
 -   <https://github.com/gcanti/monocle-ts>
@@ -409,6 +409,7 @@
 -   <https://github.com/rhys-vdw/ts-auto-guard>
 -   <https://github.com/jpbulman/Advanced-Sets>
 -   <https://github.com/wix-incubator/as-typed>
+-   <https://github.com/sinclairzx81/typedriver>
 -   <https://github.com/pksilen/validated-types>
 -   <https://github.com/krzkaczor/ts-essentials>
 -   <https://github.com/Rich-Harris/object-cull>
@@ -441,6 +442,7 @@
 -   <https://github.com/colinhacks/zod>
 -   <https://github.com/fabien0102/ts-to-zod>
 -   <https://github.com/sachinraja/zod-to-ts>
+-   <https://github.com/sinclairzx81/typedriver>
 -   <https://github.com/duplojs/zod-accelerator>
 -   <https://github.com/johngeorgewright/runtyping>
 -   <https://github.com/astahmer/openapi-zod-client>

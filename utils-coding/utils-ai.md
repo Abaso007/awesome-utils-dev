@@ -243,6 +243,7 @@
 -   <https://github.com/karpathy/LLM101n>
 -   <https://github.com/huggingface/agents-course>
 -   <https://github.com/decodingml/llm-twin-course>
+-   <https://github.com/AMAI-GmbH/AI-Expert-Roadmap>
 -   <https://github.com/ZJU-LLMs/Foundations-of-LLMs>
 -   <https://github.com/NirDiamant/agents-towards-production>
 

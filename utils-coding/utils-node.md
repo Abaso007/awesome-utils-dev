@@ -726,14 +726,13 @@
 -   <https://github.com/rhinobase/hono-openapi>
 -   <https://github.com/honojs/hono>
 
-\## SERVER: ALL
+## SERVER: ALL
 
 -   <https://github.com/Rotorsoft/eventually-monorepo>
 -   <https://github.com/differentialhq/differential>
 -   <https://github.com/VilledeMontreal/workit>
 -   <https://github.com/brightcove/hot-shots>
 -   <https://github.com/typicode/json-server>
--   <https://github.com/httptoolkit/mockrtc>
 -   <https://github.com/paulmillr/chokidar>
 -   <https://github.com/fonoster/fonoster>
 -   <https://github.com/Goldziher/spikard>
@@ -750,13 +749,18 @@
 -   <https://github.com/h3js/srvx>
 -   <https://github.com/h3js/h3>
 
-\## SERVER: RPC
+## SERVER: RPC
 
 -   <https://github.com/trpc/trpc>
 -   <https://github.com/cloudflare/capnweb>
 -   <https://github.com/capnproto/capnproto>
 -   <https://github.com/maloguertin/msw-trpc>
 -   <https://github.com/antfu-collective/birpc>
+
+## SERVER: RTC
+
+-   <https://github.com/sinclairzx81/smoke>
+-   <https://github.com/httptoolkit/mockrtc>
 
 ## SDK
 
