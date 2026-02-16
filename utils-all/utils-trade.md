@@ -1400,6 +1400,7 @@
 -   <https://github.com/whchien/ai-trader>
 -   <https://github.com/junduck/overthink>
 -   <https://github.com/mims-harvard/UniTS>
+-   <https://github.com/tripolskypetr/garch>
 -   <https://github.com/valamidev/TraderCore>
 -   <https://github.com/tinkle-community/nofx>
 -   <https://github.com/virattt/ai-hedge-fund>

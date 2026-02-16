@@ -614,6 +614,7 @@
 -   <https://github.com/OthmanAdi/planning-with-files>
 -   <https://github.com/Soushi888/ai-rules-and-workflows>
 -   <https://github.com/forrestchang/andrej-karpathy-skills>
+-   <https://github.com/fugazi/test-automation-skills-agents>
 -   <https://github.com/yosietserga/ai-prompts-for-developers>
 -   <https://github.com/anthropics/prompt-eng-interactive-tutorial>
 -   <https://github.com/x1xhlol/v0-system-prompts-models-and-tools>
@@ -890,6 +891,7 @@
 -   <https://github.com/josStorer/RWKV-Runner>
 -   <https://github.com/cloudflare/moltworker>
 -   <https://github.com/open-webui/open-webui>
+-   <https://github.com/zeroclaw-labs/zeroclaw>
 -   <https://github.com/archestra-ai/archestra>
 -   <https://github.com/stephengpope/thepopebot>
 -   <https://github.com/withcatai/node-llama-cpp>
@@ -910,6 +912,7 @@
 -   <https://github.com/BoundaryML/baml>
 -   <https://github.com/dottxt-ai/outlines>
 -   <https://github.com/567-labs/instructor-js>
+-   <https://github.com/tripolskypetr/json-inference>
 
 ## LIB: DB
 

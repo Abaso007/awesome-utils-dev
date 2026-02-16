@@ -30,6 +30,7 @@
 
 ## LIST
 
+-   <https://github.com/fugazi/test-automation-skills-agents>
 -   <https://github.com/mxschmitt/awesome-playwright>
 -   <https://github.com/TheJambo/awesome-testing>
 -   <https://github.com/omergulen/awesome-bdd>

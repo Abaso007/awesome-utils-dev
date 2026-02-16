@@ -1245,6 +1245,7 @@
 -   <https://github.com/openseadragon/openseadragon>
 -   <https://github.com/steveruizok/perfect-arrows>
 -   <https://github.com/mjackson/multipart-parser>
+-   <https://github.com/sindresorhus/reveal-file>
 -   <https://github.com/vidstack/media-captions>
 -   <https://github.com/tapioca24/videojs-logo>
 -   <https://github.com/ColonelParrot/jscanify>
@@ -1428,6 +1429,7 @@
 -   <https://github.com/sbyrnes/likely.js>
 -   <https://github.com/ml5js/ml5-library>
 -   <https://github.com/sinclairzx81/bayes>
+-   <https://github.com/ml5js/ml5-next-gen>
 -   <https://github.com/jimkang/annoy-node>
 -   <https://github.com/waihongchung/dress>
 -   <https://github.com/jaimelias/xy-scale>
