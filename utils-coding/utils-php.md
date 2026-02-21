@@ -131,6 +131,10 @@ More infos:
 -   <https://github.com/selective-php>
 -   <https://github.com/nette>
 
+## LIBS: CMS
+
+-   <https://github.com/drupal/drupal>
+
 ## SERVERLESS
 
 -   <https://github.com/vercel-community/php>

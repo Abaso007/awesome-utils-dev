@@ -466,6 +466,7 @@
 -   <https://en.bitcoin.it/wiki/Cold_storage>
 -   <https://github.com/iancoleman/bip39>
 -   <https://github.com/rektbuildr/ledger-live>
+-   <https://dirtymansafe.com/products/dirtyman-safe-extra-large>
 -   <https://medium.com/@lopp/metal-bitcoin-seed-storage-stress-test-21f47cf8e6f5>
 
 ## DAPPS

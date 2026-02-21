@@ -50,6 +50,9 @@
     -   [MEASURE](#measure)
     -   [EVOLUTION](#evolution)
 
+## GOOD PRACTICES
+-   <https://www.dimitri-dumont.fr/blog/result-pattern-vs-throw-typescript>
+
 ## LIBRARY
 
 -   <https://youmightnotneed.com/>

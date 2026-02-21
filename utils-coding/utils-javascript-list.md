@@ -1376,6 +1376,10 @@
 -   <https://github.com/panchishin/geneticalgorithm>
 -   <https://github.com/ptrkkim/Genetic-Algo-Tech-Talk>
 
+## LIB: AI: GPT
+
+-   <https://github.com/Kuberwastaken/picogpt>
+
 ## LIB: AI: AGENT
 
 -   <https://github.com/SmythOS/sre>
@@ -1421,7 +1425,9 @@
 -   <https://github.com/jsmlt>
 -   <https://github.com/mljs/ml>
 -   <https://github.com/mljs/knn>
+-   <http://github.com/mljs/libsvm>
 -   <https://github.com/mljs/matrix>
+-   <https://github.com/statsim/app>
 -   <https://github.com/proin/nodeml>
 -   <https://github.com/harthur/brain>
 -   <https://github.com/tensorflow/tfjs>
@@ -1437,6 +1443,7 @@
 -   <https://github.com/jaimelias/xy-scale>
 -   <https://github.com/sbyrnes/classify.js>
 -   <https://github.com/TomaszRewak/ML-games>
+-   <https://github.com/zemlyansky/boruta.js>
 -   <https://github.com/kwichmann/ml_sandbox>
 -   <https://github.com/davide97g/ml-modules>
 -   <https://github.com/wagenaartje/neataptic>
@@ -1684,6 +1691,7 @@
 -   <https://github.com/shaack/cm-chessboard>
 -   <https://github.com/excaliburjs/Excalibur>
 -   <https://github.com/KilledByAPixel/LittleJS>
+-   <https://github.com/kuberwastaken/backdooms>
 -   <https://github.com/gruhn/typescript-sudoku>
 -   <https://github.com/bobeff/open-source-games>
 -   <https://github.com/memetic-institute/The-Fed>

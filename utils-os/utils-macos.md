@@ -77,7 +77,6 @@
 -   <https://github.com/minamarkham/formation>
 -   <https://github.com/jacklandrin/OnlySwitch>
 -   <https://github.com/alienator88/Pearcleaner>
--   <https://github.com/LiveContainer/LiveContainer>
 -   <https://github.com/NativeScript/template-macos-solid>
 -   <https://apps.apple.com/us/app/magnet/id441258766?mt=12>
 
@@ -217,6 +216,10 @@ Solution 2
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     brew cask install java --no-quarantine
+
+## iOS
+
+-   <https://github.com/LiveContainer/LiveContainer>
 
 ## iOS Distribute
 

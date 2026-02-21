@@ -392,7 +392,6 @@
 -   <https://github.com/lukevella/rallly>
 -   <https://github.com/colanode/colanode>
 -   <https://github.com/campsite/campsite>
--   <https://github.com/metamaps/metamaps>
 -   <https://github.com/rustdesk/rustdesk>
 -   <https://github.com/traceo-dev/traceo>
 -   <https://github.com/TigerVNC/tigervnc>
@@ -414,6 +413,11 @@
 -   <https://github.com/onetimesecret/onetimesecret>
 -   <https://github.com/alextselegidis/easyappointments>
 -   <https://github.com/mattermost-community/focalboard>
+
+## OSS: MAP
+
+-   <https://codeberg.org/comaps/comaps>
+-   <https://github.com/metamaps/metamaps>
 
 # OSS: WEB
 

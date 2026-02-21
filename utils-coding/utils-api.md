@@ -177,6 +177,10 @@
 -   <https://github.com/pocketbase/pocketbase>
 -   <https://github.com/risingwavelabs/risingwave>
 
+## WORKER
+
+-   <https://github.com/openworkers>
+
 ## MESSAGE BROKER
 
 -   <https://github.com/rabbitmq>

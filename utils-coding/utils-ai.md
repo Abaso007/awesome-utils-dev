@@ -340,12 +340,18 @@
 -   <https://lumo.proton.me/>
 -   <https://chat.qwenlm.ai/>
 -   <https://chat.openai.com/>
+-   <https://brightanswers.ai/>
 -   <https://www.deepseek.com/>
 -   <https://www.perplexity.ai/>
 -   <https://chatllm.abacus.ai/>
 -   <https://copilot.microsoft.com/>
 -   <https://hermes.nousresearch.com/>
 -   <https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/>
+
+## TOOLS: PROMPT EXTRA
+
+-   <https://markdown.new/>
+-   <https://summarize.sh/>
 
 ## TOOLS: CLIENT PROMPT: OSS
 
@@ -396,7 +402,6 @@
 -   <https://airbyte.com/>
 -   <https://sitegpt.ai/>
 -   <https://ideasai.com/>
--   <https://openrouter.ai/>
 -   <https://kissangpt.com/>
 -   <https://interiorai.com/>
 -   <https://breadboard.me/>
@@ -413,6 +418,11 @@
 -   <https://www.literallyanything.io/>
 -   <http://playground.tensorflow.org/>
 -   <https://github.com/clmnin/summarize.site>
+
+## TOOLS: AGGREGATE
+
+-   <https://openrouter.ai/>
+-   <https://muapi.ai/>
 
 ## TOOLS: AUTOMATE
 
@@ -517,6 +527,7 @@
 -   <https://github.com/github/copilot-sdk>
 -   <https://github.com/Nutlope/llamacoder>
 -   <https://github.com/MLSysOps/MLE-agent>
+-   <https://github.com/anomalyco/opencode>
 -   <https://github.com/Fission-AI/OpenSpec>
 -   <https://github.com/charmbracelet/crush>
 -   <https://github.com/paul-gauthier/aider>
@@ -608,6 +619,7 @@
 -   <https://github.com/agentsmd/agents.md>
 -   <https://github.com/snarktank/ai-dev-tasks>
 -   <https://github.com/kepano/obsidian-skills>
+-   <https://github.com/analogjs/angular-skills>
 -   <https://github.com/agentskills/agentskills>
 -   <https://github.com/google-gemini/gemini-skills>
 -   <https://github.com/tech-leads-club/agent-skills>
@@ -716,6 +728,7 @@
 
 -   <https://vizard.ai/>
 -   <https://runwayml.com/>
+-   <https://higgsfield.ai/>
 -   <https://firstframe.ai/>
 
 ## TOOLS: AUDIO
@@ -741,9 +754,12 @@
 -   <https://www.aistudios.com/>
 -   <https://github.com/HumanAIGC/EMO>
 -   <https://github.com/Lightricks/LTX-2>
+-   <https://github.com/Henry-23/VideoChat>
+-   <https://github.com/shibing624/AIAvatar>
 -   <https://github.com/duixcom/Duix-Avatar>
 -   <https://github.com/bytedance/X-Portrait>
 -   <https://github.com/met4citizen/HeadTTS>
+-   <https://github.com/OpenTalker/SadTalker>
 -   <https://github.com/met4citizen/HeadAudio>
 -   <https://github.com/met4citizen/TalkingHead>
 -   <https://github.com/alievk/avatarify-python>
@@ -752,6 +768,8 @@
 -   <https://github.com/Tencent-Hunyuan/HunyuanPortrait>
 -   <https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar>
 -   <https://github.com/HumanAIGC-Engineering/OpenAvatarChat>
+-   <https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis>
+-   <https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar>
 
 ## TOOLS: MOBILE
 
@@ -873,18 +891,21 @@
 -   <https://github.com/mudler/LocalAI>
 -   <https://github.com/lmstudio-ai/lms>
 -   <http://github.com/menloresearch/jan>
+-   <https://github.com/AlexsJones/llmfit>
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
 
 -   <https://github.com/HKUDS/nanobot>
 -   <https://github.com/HKUDS/ClawWork>
 -   <https://github.com/jlia0/tinyclaw>
+-   <https://github.com/SeyZ/clawbands>
 -   <https://github.com/sipeed/picoclaw>
 -   <https://github.com/moltbot/moltbot>
 -   <https://github.com/adridder/moltron>
 -   <https://github.com/eigent-ai/eigent>
 -   <https://github.com/frdel/agent-zero>
 -   <https://github.com/gavrielc/nanoclaw>
+-   <https://github.com/snarktank/antfarm>
 -   <https://github.com/openclaw/openclaw>
 -   <https://github.com/ValueCell-ai/ClawX>
 -   <https://github.com/Fosowl/agenticSeek>
@@ -901,6 +922,7 @@
 -   <https://github.com/backslash-security/Claw-Hunter>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
 -   <https://github.com/hesamsheikh/awesome-openclaw-usecases>
+-   <https://gist.github.com/mberman84/065631c62d6d8f30ecb14748c00fc6d9>
 
 ## LIB: MACHINE LEARNING / ML
 
@@ -1110,6 +1132,7 @@
 -   <https://github.com/igrigorik/AgentBoard>
 -   <https://github.com/hyperb1iss/droidmind>
 -   <https://github.com/getdatanaut/openmcp>
+-   <https://github.com/agoda-com/api-agent>
 -   <https://github.com/steipete/mcporter>
 -   <https://github.com/upstash/context7>
 -   <https://github.com/punkpeye/fastmcp>
@@ -1175,6 +1198,7 @@
 
 -   <https://github.com/ros2/ros2>
 -   <https://github.com/LejuRobotics>
+-   <https://github.com/unitreerobotics>
 -   <https://github.com/commaai/openpilot>
 -   <https://github.com/ArduPilot/ardupilot>
 -   <https://github.com/qgallouedec/lerobot>
@@ -1321,6 +1345,7 @@
 -   <https://github.com/modelscope/ClearerVoice-Studio>
 -   <https://github.com/linto-ai/whisper-timestamped>
 -   <https://github.com/jianchang512/ChatTTS-ui>
+-   <https://github.com/nineninesix-ai/kani-tts>
 -   <https://github.com/eustlb/speech-to-speech>
 -   <https://github.com/souzatharsis/podcastfy>
 -   <https://github.com/resemble-ai/chatterbox>
@@ -1380,6 +1405,7 @@
 -   <https://github.com/chatfire-AI/huobao-drama>
 -   <https://github.com/HVision-NKU/StoryDiffusion>
 -   <https://github.com/fudan-generative-vision/hallo>
+-   <https://github.com/Anil-matcha/Open-Higgsfield-AI>
 -   <https://github.com/FurkanGozukara/Stable-Diffusion>
 -   <https://github.com/jianzhnie/awesome-text-to-video>
 -   <https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5>

@@ -756,6 +756,7 @@
 -   <https://github.com/capnproto/capnproto>
 -   <https://github.com/maloguertin/msw-trpc>
 -   <https://github.com/antfu-collective/birpc>
+-   <https://github.com/Connectum-Framework/connectum>
 
 ## SERVER: RTC
 

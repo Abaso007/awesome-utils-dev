@@ -1290,6 +1290,7 @@ Learn everything about angular universal, make a good SEO.
 -   <https://blog.ninja-squad.com/2025/11/04/angular-signal-forms-part-1>
 -   <https://blog.ninja-squad.com/2025/11/14/angular-signal-forms-part-2>
 -   <https://stackblitz.com/@nihaadk/collections/angular-signal-forms-examples>
+-   <https://stackblitz.com/edit/stackblitz-starters-r79dxgpj?file=src%2Fmain.ts>
 -   <https://blog.stackademic.com/signal-forms-with-resource-api-is-magic-cf4c0d249902>
 
 ## CORE: SIGNALS OSS
@@ -1779,10 +1780,12 @@ Discover alternative to ngrx for the state management of your objects.
 
 ## ECOSYSTEM: MICROFRONTEND: FEDERATION
 
+-   <https://github.com/native-federation>
 -   <https://github.com/module-federation/vite>
 -   <https://github.com/module-federation/universe>
 -   <https://github.com/originjs/vite-plugin-federation>
 -   <https://github.com/vugar005/youtube-webapp-turborepo>
+-   <https://github.com/native-federation/native-federation-core>
 -   <https://github.com/manfredsteyer/native-federation-core-microfrontend>
 -   <https://github.com/manfredsteyer/native-federation-core-example>
 
@@ -2287,6 +2290,7 @@ Learn the best way to make your objects immutable.
 -   <https://github.com/dot-build/angular-serve-and-run>
 -   <https://github.com/AleksanderBodurri/shield-maker>
 -   <https://github.com/sokra/source-map-visualization>
+-   <https://github.com/RHeckers/AngularRouteExplorer>
 -   <https://github.com/danielglejzner/ng16-dep-audit>
 -   <https://github.com/angular-experts-io/ng-parsel>
 -   <https://github.com/alfredoperez/ngx-dev-toolbar>
@@ -4011,11 +4015,15 @@ Find here tools, snippets, extensions, plugins for different IDE.
 -   <https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3>
 -   <https://swatijaiwal03.medium.com/angular-cheat-sheet-8e81c17010cf>
 
-### ANGULAR21
+### ANGULAR21 V21
 
 -   <https://youtu.be/u0v1UYTeSME> 2025 Year reviez
+-   <https://dev.to/ngrx-toolkit/ngrx-toolkit-v21-4l46>
 -   <https://github.com/GaetanRouzies/angular-21-overview>
+-   <https://angular.love/angular-21-1-key-features-and-improvements>
 -   <https://blog.ninja-squad.com/2026/01/15/what-is-new-angular-21.1>
+-   <https://medium.com/@gabrieldavidguerrero/announcing-ngrx-traits-21-248c4f84f448>
+-   <https://blog.stackademic.com/angular-v21-runtime-validation-with-zod-schemas-signals-and-boundaries-f1ddbcb208b1>
 
 ### ANGULAR20
 

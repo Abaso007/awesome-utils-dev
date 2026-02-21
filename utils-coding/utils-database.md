@@ -82,6 +82,7 @@
 ## SQLITE
 
 -   <https://github.com/sqlite/sqlite>
+-   <https://github.com/kiankyars/sqlite>
 -   <https://github.com/tursodatabase/turso>
 -   <https://github.com/tursodatabase/libsql>
 -   <https://github.com/benbjohnson/litestream>

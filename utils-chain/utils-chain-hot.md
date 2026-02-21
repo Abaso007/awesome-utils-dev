@@ -79,6 +79,7 @@ post-blockchain, data-centric, peer 2 peer, p2p apps, p2p hosting, dht, distribu
 -   Alls: <https://airtable.com/shrRojl48GW5te3ap/tblWsBn3J5hyOVOUv>
 -   Ethelo: <https://docs.google.com/document/d/1ZzzOhK7tq6BE_QMwG3DoWGWq6JJw8ne9bNadgcIE-vo/edit?pli=1#>
 -   Perspect3vism: <https://www.perspect3vism.org>
+-   Flowsta: https://flowsta.com/
 -   CoreNexus: <https://corenexus.is>
 -   SocioProphet: <https://www.socioprophet.com/>
 -   Thoughtwave: <https://thoughtwave.app/>

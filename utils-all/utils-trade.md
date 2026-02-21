@@ -1303,8 +1303,10 @@
 
 -   <https://github.com/Opus-Aether-AI/pine-transpiler>
 -   <https://github.com/marketcalls/openalgo-pinets>
+-   <https://github.com/codenamedevan/pinescriptv6>
 -   <https://github.com/deepentropy/oakscriptJS>
 -   <https://github.com/QuantForgeOrg/PineTS>
+-   <https://github.com/folknor/pine-tools>
 
 ### OSS: JAVASCRIPT: ALL
 

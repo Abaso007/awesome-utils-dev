@@ -121,6 +121,10 @@ pip -V
 -   <https://github.com/vietnh1009/ASCII-generator>
 -   <https://github.com/threestudio-project/threestudio>
 
+## GPT
+
+-   <https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95>
+
 ## DATA
 
 -   <https://github.com/pandas-dev/pandas>
