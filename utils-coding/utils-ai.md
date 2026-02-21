@@ -898,6 +898,7 @@
 -   <https://github.com/lmstudio-ai/lms>
 -   <http://github.com/menloresearch/jan>
 -   <https://github.com/AlexsJones/llmfit>
+-   <https://github.com/RightNow-AI/picolm>
 
 ## TOOLS: ASSISTANT / COWORK SELF HOST
 
