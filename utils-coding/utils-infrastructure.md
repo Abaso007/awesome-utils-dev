@@ -292,10 +292,10 @@
 -   <https://github.com/benbristow/dokploy-compose-templates>
 -   <https://github.com/benbristow/dokploy-deploy-action>
 -   <https://github.com/jmischler72/dokploy-deploy-action>
--   <https://git.deuxfleurs.fr/Deuxfleurs/garage>
 -   <https://github.com/caprover/one-click-apps>
--   <https://github.com/azukaar/Cosmos-Server>
 -   <https://github.com/coollabsio/cli-coolify>
+-   <https://github.com/deuxfleurs-org/garage>
+-   <https://github.com/azukaar/Cosmos-Server>
 -   <https://github.com/psviderski/uncloud>
 -   <https://github.com/coollabsio/coolify>
 -   <https://github.com/newsnowlabs/runcvm>
@@ -308,6 +308,7 @@
 -   <https://github.com/taubyte/tau>
 -   <https://youtu.be/mznYKPvhcfw>
 -   <https://youtu.be/taJlPG82Ucw>
+-   <https://youtu.be/BvyGBDxGTAs>
 -   <https://www.pikapods.com/>
 
 ## HOST SERVICES OSS / TUTOS

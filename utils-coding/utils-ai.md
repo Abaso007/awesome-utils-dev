@@ -926,10 +926,12 @@
 -   <https://github.com/archestra-ai/archestra>
 -   <https://github.com/stephengpope/thepopebot>
 -   <https://github.com/withcatai/node-llama-cpp>
+-   <https://github.com/digitalknk/openclaw-runbook>
 -   <https://github.com/backslash-security/Claw-Hunter>
 -   <https://github.com/transitive-bullshit/OpenOpenAI>
 -   <https://github.com/hesamsheikh/awesome-openclaw-usecases>
 -   <https://gist.github.com/mberman84/065631c62d6d8f30ecb14748c00fc6d9>
+-   <https://gist.github.com/championswimmer/bd0a45f0b1482cb7181d922fd94ab978>
 
 ## LIB: MACHINE LEARNING / ML
 
