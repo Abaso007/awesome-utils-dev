@@ -11,6 +11,7 @@
 -   [SECURITY](#security)
 -   [LISTS](#lists)
 -   [LIBS: ALL](#libs-all)
+-   [LIBS: CMS](#libs-cms)
 -   [SERVERLESS](#serverless)
 -   [STARTER](#starter)
 -   [FRAMEWORKS](#frameworks)

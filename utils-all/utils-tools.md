@@ -4,6 +4,7 @@
 
 -   -   [Web](#web)
     -   [OSS: ALL](#oss-all)
+    -   [OSS: NEWS](#oss-news)
     -   [OSS: MESSAGING BOT](#oss-messaging-bot)
     -   [OSS: SOCIAL NETWORK](#oss-social-network)
     -   [OSS: LEARN / LANGUAGE / ENGLISH](#oss-learn--language--english)
@@ -14,7 +15,7 @@
 
 -   [OSS: ASSETS](#oss-assets)
 
-    -   [OSS: NEWS](#oss-news)
+    -   [OSS: NEWS](#oss-news-1)
     -   [OSS: FTP](#oss-ftp)
     -   [OSS: BROWSER](#oss-browser)
     -   [OSS: SYSTEM](#oss-system)
@@ -46,7 +47,11 @@
 
     -   [OSS: PRODUCTIVITY](#oss-productivity)
 
+    -   [OSS: COMMUNICATE](#oss-communicate)
+
     -   [OSS: COLLABORATE](#oss-collaborate)
+
+    -   [OSS: MAP](#oss-map)
 
 -   [OSS: WEB](#oss-web-1)
 
@@ -153,6 +158,7 @@
 -   <https://github.com/uwidev/life-disciplines-projects>
 
 ## OSS: NEWS
+
 -   <https://github.com/koala73/worldmonitor>
 
 ## OSS: MESSAGING BOT
@@ -371,6 +377,7 @@
 -   <https://github.com/chrisvel/tududi>
 
 ## OSS: COMMUNICATE
+
 -   <https://github.com/lightningrodlabs/moss>
 -   <https://github.com/spacebarchat/server>
 -   <https://github.com/stoatchat>

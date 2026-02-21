@@ -180,13 +180,21 @@
 
 -   [LIB: MATH / CLUSTER](#lib-math--cluster)
 
+-   [LIB: MATH / MATRIX](#lib-math--matrix)
+
 -   [LIB: GENETIC ALGO](#lib-genetic-algo)
+
+-   [LIB: AI: GPT](#lib-ai-gpt)
 
 -   [LIB: AI: AGENT](#lib-ai-agent)
 
 -   [LIB: AI WEB / NLP EDGE](#lib-ai-web--nlp-edge)
 
--   [LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING / NEURAL NETWORK](#lib-ai--training--prediction--machine-learning--neural-network)
+-   [LIB: AI / DEEP LEARNING / NEURAL NETWORK](#lib-ai--deep-learning--neural-network)
+
+-   [LIB: AI / TRAINING / PREDICTION / MACHINE LEARNING](#lib-ai--training--prediction--machine-learning)
+
+-   [LIB: AI / MACHINE LEARNING / NAIVE BAYES / TEXT CLASSIFIER](#lib-ai--machine-learning--naive-bayes--text-classifier)
 
 -   [LIB: AI / ARTIFICIAL INTELLIGENCE / ALL UNCLASSIFIED](#lib-ai--artificial-intelligence--all-unclassified)
 
@@ -1457,7 +1465,6 @@
 -   <https://github.com/Mansafreo/Primitive-KNN-in-Javascript>
 -   <https://github.com/abhisheksoni27/machine-learning-with-js>
 -   <https://github.com/jinglescode/time-series-forecasting-tensorflowjs>
-
 
 ## LIB: AI / MACHINE LEARNING / NAIVE BAYES / TEXT CLASSIFIER
 

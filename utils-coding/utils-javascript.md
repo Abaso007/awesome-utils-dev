@@ -2,6 +2,8 @@
 
 ## TABLE OF CONTENTS
 
+-   [GOOD PRACTICES](#good-practices)
+
 -   [LIBRARY](#library)
 
 -   [SHORTHANDS](#shorthands)
@@ -51,6 +53,7 @@
     -   [EVOLUTION](#evolution)
 
 ## GOOD PRACTICES
+
 -   <https://www.dimitri-dumont.fr/blog/result-pattern-vs-throw-typescript>
 
 ## LIBRARY

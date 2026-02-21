@@ -9,6 +9,7 @@
 -   [MOCKS](#mocks)
 -   [SERVER](#server)
 -   [SERVERLESS](#serverless)
+-   [WORKER](#worker)
 -   [MESSAGE BROKER](#message-broker)
 -   [OTHERS](#others)
 -   [ARTICLES](#articles)

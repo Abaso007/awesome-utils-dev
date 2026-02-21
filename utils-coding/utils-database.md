@@ -10,6 +10,7 @@
 -   [DB TIMESERIES](#db-timeseries)
 -   [DB UTILS](#db-utils)
 -   [NOSQL / MONGO](#nosql--mongo)
+-   [VECTOR](#vector)
 -   [SQLITE](#sqlite)
 
 ## DBAS
@@ -77,6 +78,7 @@
 -   <https://github.com/skytable/skytable>
 
 ## VECTOR
+
 -   <https://github.com/alibaba/zvec>
 
 ## SQLITE

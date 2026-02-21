@@ -24,6 +24,8 @@
 
 -   [TOOLS: PROMPT](#tools-prompt)
 
+-   [TOOLS: PROMPT EXTRA](#tools-prompt-extra)
+
 -   [TOOLS: CLIENT PROMPT: OSS](#tools-client-prompt-oss)
 
 -   [TOOLS: AI APP STORE](#tools-ai-app-store)
@@ -31,6 +33,8 @@
 -   [TOOLS: SUPPORT](#tools-support)
 
 -   [TOOLS: ALL](#tools-all)
+
+-   [TOOLS: AGGREGATE](#tools-aggregate)
 
 -   [TOOLS: AUTOMATE](#tools-automate)
 
@@ -106,7 +110,7 @@
 
 -   [TOOLS: OFFLINE / LOCAL](#tools-offline--local)
 
--   [TOOLS: ASSISTANT / SELF HOST](#tools-assistant--self-host)
+-   [TOOLS: ASSISTANT / COWORK SELF HOST](#tools-assistant--cowork-self-host)
 
 -   [LIB: MACHINE LEARNING / ML](#lib-machine-learning--ml)
 
@@ -162,7 +166,9 @@
 
 -   [LIB: EVALS](#lib-evals)
 
--   [LIB: AUDIO / TTS / TRANSCRIPT](#lib-audio--tts--transcript)
+-   [LIB: AUDIO / TTS](#lib-audio--tts)
+
+-   [LIB: AUDIO / TRANSCRIPT](#lib-audio--transcript)
 
 -   [LIB: VIDEO](#lib-video)
 

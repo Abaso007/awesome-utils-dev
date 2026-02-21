@@ -22,6 +22,10 @@
 
 -   [QUOTES: OSS](#quotes-oss)
 
+-   [QUOTES: LIVE](#quotes-live)
+
+-   [QUOTES: ETF](#quotes-etf)
+
 -   [LIST: OSS](#list-oss)
 
 -   [TOOLS: PLATFORM](#tools-platform)

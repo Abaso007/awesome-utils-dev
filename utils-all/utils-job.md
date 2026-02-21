@@ -12,6 +12,7 @@ Agent pour développeurs haut-niveau
 -   [REMOTE: JOBS FAMOUS](#remote-jobs-famous)
 -   [JOBS: PLATFORM](#jobs-platform)
 -   [JOBS: ALL](#jobs-all)
+-   [SWISS](#swiss)
 
 ## OSS: JOBS
 
@@ -229,7 +230,6 @@ careerbuilder
 jobeo  
 Onvabosser  
 wellpaid.io
-
 
 ## SWISS
 

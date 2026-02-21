@@ -16,6 +16,7 @@
 -   [LIBS: ALL](#libs-all)
 -   [LIBS: SCHEDULER](#libs-scheduler)
 -   [LIBS: TOOLS](#libs-tools)
+-   [LIBS: SEARCH](#libs-search)
 -   [LIBS: DI](#libs-di)
 -   [LIBS: PUBSUB](#libs-pubsub)
 -   [LIBS: TESTS](#libs-tests)
@@ -185,6 +186,7 @@
 -   <https://www.moderne.ai/>
 
 ## LIBS: SEARCH
+
 -   <https://github.com/datastax/jvector>
 
 ## LIBS: DI

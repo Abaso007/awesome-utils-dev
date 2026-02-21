@@ -6,6 +6,7 @@
 -   [ALL LIBS](#all-libs)
 -   [LEARN / TECH WATCH](#learn--tech-watch)
 -   [PODCASTS](#podcasts)
+-   [SDLC](#sdlc)
 -   [AWESOME LIST OSS](#awesome-list-oss)
 -   [AWESOME LIST WWW](#awesome-list-www)
 -   [DISCOVER](#discover)
@@ -56,7 +57,6 @@
 ## SDLC
 
 -   <https://overcut.ai/>
-
 
 ## AWESOME LIST OSS
 

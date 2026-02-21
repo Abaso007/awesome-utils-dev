@@ -33,6 +33,8 @@
     -   [NVM installation](#nvm-installation)
     -   [Java installation](#java-installation)
 
+-   [iOS](#ios)
+
 -   [iOS Distribute](#ios-distribute)
 
     -   [iOS Certificate](#ios-certificate)
@@ -161,7 +163,6 @@ Object {}: Option + 8/9
 Pipe |: Option + 7
 
 ## MOBILE DEV
-
 
 ### Tips (iOS/Android)
 
