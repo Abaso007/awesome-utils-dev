@@ -586,6 +586,7 @@
 -   <https://github.com/liriliri/licia>
 -   <https://github.com/unjs/cookie-es>
 -   <https://github.com/kourge/ordering>
+-   <https://github.com/Effect-TS/effect>
 -   <https://github.com/tkrotoff/throw-on>
 -   <https://github.com/js-cookie/js-cookie>
 -   <https://github.com/sindresorhus/p-mutex>
@@ -1384,6 +1385,7 @@
 -   <https://github.com/firebase/genkit>
 -   <https://github.com/mastra-ai/mastra>
 -   <https://github.com/PaulKinlan/Co-do>
+-   <https://github.com/ComposioHQ/composio>
 -   <https://github.com/VoltAgent/voltagent>
 -   <https://github.com/bmadcode/BMAD-METHOD>
 -   <https://github.com/antipopp/agno-client>
@@ -1675,6 +1677,7 @@
 -   <https://github.com/mrdoob/three-quake>
 -   <https://github.com/TitanPlayz100/teti>
 -   <https://github.com/pi0/space-invaders>
+-   <https://github.com/nmrugg/stockfish.js>
 -   <https://github.com/hydralauncher/hydra>
 -   <https://github.com/daniellok/day-trader>
 -   <https://github.com/TomaszRewak/ML-games>

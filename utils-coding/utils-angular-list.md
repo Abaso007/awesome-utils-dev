@@ -1379,6 +1379,7 @@ Learn the angular error handler in order to catch the front-end and back-end err
 -   <https://indepth.dev/create-your-angular-unit-test-spies-automagically/>
 -   <https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a>
 -   <https://dev.to/nas5w/generate-all-possible-combinations-in-javascript-using-combinate-1713>
+-   <https://timdeschryver.dev/blog/improve-the-quality-of-your-angular-component-snapshots-with-vitest>
 
 ## CORE: E2E TESTS
 
@@ -1771,6 +1772,7 @@ Discover alternative to ngrx for the state management of your objects.
 -   <https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669>
 -   <https://dev.to/ngrx/announcing-ngrx-21-celebrating-a-10-year-journey-with-a-fresh-new-look-and-ngrxsignalsevents-5ekp>
 -   <https://podcasts.apple.com/us/podcast/episode-25-micro-frontends-patterns/id1493739285?i=1000742156104>
+-   <https://www.angulararchitects.io/en/presentations/premier-disciplin-for-micro-frontends-multi-version-framework-scenarios-2/>
 -   <https://www.youtube.com/watch?v=-ThsrA8hRLc> AngularAir - Micro Front End Revolution with Module Federation and Angular with Manfred Steyer
 -   <https://www.youtube.com/watch?v=tsIZjUAtF1U> Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer - Nx Conf 2021
 -   <https://www.youtube.com/watch?v=BxE01ZSshiQ> smapiot - Micro Frontends Conference 2023

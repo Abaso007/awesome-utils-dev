@@ -159,6 +159,7 @@
 -   <https://github.com/NationalSecurityAgency/ghidra>
 -   <https://github.com/Whitecat18/Javahexor>
 -   <https://github.com/KeygraphHQ/shannon>
+-   <https://github.com/vxcontrol/pentagi>
 
 ## TOOLS: OSS: DEFENSIVE
 

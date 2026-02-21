@@ -523,6 +523,7 @@
 -   <https://github.com/fauxpilot/fauxpilot>
 -   <https://github.com/OpenDevin/OpenDevin>
 -   <https://github.com/BloopAI/vibe-kanban>
+-   <https://github.com/OpenHands/OpenHands>
 -   <https://github.com/bytedance/trae-agent>
 -   <https://github.com/dagger/container-use>
 -   <https://github.com/Integuru-AI/Integuru>
@@ -876,6 +877,7 @@
 ## TOOLS: ASSISTANT / COWORK SELF HOST
 
 -   <https://github.com/HKUDS/nanobot>
+-   <https://github.com/HKUDS/ClawWork>
 -   <https://github.com/jlia0/tinyclaw>
 -   <https://github.com/sipeed/picoclaw>
 -   <https://github.com/moltbot/moltbot>
@@ -887,6 +889,7 @@
 -   <https://github.com/ValueCell-ai/ClawX>
 -   <https://github.com/Fosowl/agenticSeek>
 -   <https://github.com/rowboatlabs/rowboat>
+-   <https://github.com/coollabsio/openclaw>
 -   <https://github.com/huggingface/open-r1>
 -   <https://github.com/josStorer/RWKV-Runner>
 -   <https://github.com/cloudflare/moltworker>

@@ -185,6 +185,7 @@
 ## OSS: FILES / CONVERT / SHARE
 
 -   <https://github.com/sxyazi/yazi>
+-   <https://github.com/p2r3/convert>
 -   <https://github.com/C4illin/ConvertX>
 -   <https://github.com/internxt/drive-web>
 -   <https://github.com/cloudreve/cloudreve>
