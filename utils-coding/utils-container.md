@@ -47,17 +47,28 @@ OpenShift Online leverages the Kubernetes concept of a pod, which is one or more
 
 ```bash
 # container id = cid // image id = iid
+
+# buil example
 docker build . ==> Build the default local Dockerfile
 docker build -f Dockerfile.ssr . ==> Build a specific local Dockerfile
-docker logs <cid> ==> Displays the container logs
+
+# run example
 docker run -it $(docker build -q .) ==> Build & Run inline the image in localhost
 docker run -p 4200:8080 -d iid ==> Run the image in localhost
 docker run -p 4000:4000 -h host.com -d iid ==> Run the image in host.com
 docker run -p 4000:4000 -h host.com -v /host/path/to/certs:/container/path/to/certs -d iid "update-ca-certificates" ==> Run the image in host.com with certificate
+
+# various example
+docker logs cid ==> Displays the container logs
 docker top cid ==> Displays the containers running processes
 docker port cid ==> Lists containers port mappings
 docker kill cid ==> Kills the process but its not ideal
 docker diff cid ==> check changes to files&didirectories
+
+# explore running container
+docker exec -it cid /bin/bash
+docker exec -it cid sh
+docker export cid | tar t
 ```
 
 ## PODMAN
